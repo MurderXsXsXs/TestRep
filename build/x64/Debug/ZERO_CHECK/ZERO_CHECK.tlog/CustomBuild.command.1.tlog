@@ -1,0 +1,10 @@
+^D:\GITREP\TESTREP\BUILD\CMAKEFILES\BA43A5845BE976E8C9BF5AAA4380E1E0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GitRep/TestRep -BD:/GitRep/TestRep/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GitRep/TestRep/build/TestRepBattle-city.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
