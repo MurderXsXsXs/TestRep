@@ -1,6 +1,0 @@
-D:/GitRep/TestRep/build/CMakeFiles/TestRepBattle-city.dir
-D:/GitRep/TestRep/build/CMakeFiles/ALL_BUILD.dir
-D:/GitRep/TestRep/build/CMakeFiles/ZERO_CHECK.dir
-D:/GitRep/TestRep/build/external/glfw/CMakeFiles/ALL_BUILD.dir
-D:/GitRep/TestRep/build/external/glfw/src/CMakeFiles/glfw.dir
-D:/GitRep/TestRep/build/external/glfw/src/CMakeFiles/update_mappings.dir
